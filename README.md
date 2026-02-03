@@ -10,6 +10,10 @@ Este repositorio contiene una serie de ejercicios desarrollados en **C++**, orie
 
 Los ejercicios fueron realizados con fines académicos, aplicando lógica clara, organización adecuada del código y buenas prácticas de programación.
 
+Enlace video: https://epnecuador-my.sharepoint.com/:v:/g/personal/francisco_pinargote_epn_edu_ec/IQDmoZZu0wccQaKaC3dru49AAZBRH3JJq9KKs0ggSDS-2co?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=x71saN
+
+
+
 ---
 
 ## 🎯 Objetivos del taller
